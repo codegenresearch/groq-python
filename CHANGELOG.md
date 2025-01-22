@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.15.1 (2025-01-22)
+
+Full Changelog: [v0.15.0...v0.15.1](https://github.com/groq/groq-python/compare/v0.15.0...v0.15.1)
+
+### Chores
+
+* **internal:** codegen related update ([#177](https://github.com/groq/groq-python/issues/177)) ([01e6304](https://github.com/groq/groq-python/commit/01e63041c81099bf0fb64a372462be71767fb747))
+* **internal:** codegen related update ([#180](https://github.com/groq/groq-python/issues/180)) ([5c8db1a](https://github.com/groq/groq-python/commit/5c8db1a9795dfad7316a9c1e026386a0ad62e3db))
+
+
+### Documentation
+
+* **raw responses:** fix duplicate `the` ([#179](https://github.com/groq/groq-python/issues/179)) ([a28cbd8](https://github.com/groq/groq-python/commit/a28cbd863d875954a0404ff1148da02cd131de98))
+
 ## 0.15.0 (2025-01-11)
 
 Full Changelog: [v0.14.0...v0.15.0](https://github.com/groq/groq-python/compare/v0.14.0...v0.15.0)
